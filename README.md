@@ -13,12 +13,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Hylaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hylaean&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hylaean&layout=compact&theme=radical)
-
-## 📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
