@@ -3,6 +3,7 @@
 ## About Me
 
 🔭 I'm currently working toward a greener smarter planet, starting with... pharma logistic air cargo at [Swiss Airtainer](https://swissairtainer.com)
+
 🌱 I'm currently learning identity flow in MCP
 
 ## 🛠️ Technologies & Tools
