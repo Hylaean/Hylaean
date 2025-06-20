@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jean! 👋
 
-<!--
-**Hylaean/Hylaean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🔭 I'm currently working toward a greener smarter planet, starting with... pharma logistic air cargo at [Swiss Airtainer](https://swissairtainer.com)
+🌱 I'm currently learning identity flow in MCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### Languages
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![F#](https://img.shields.io/badge/-F%23-378BBA?style=flat-square&logo=f-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Hylaean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hylaean&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hylaean&layout=compact&theme=radical)
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+⭐️ From [Hylaean](https://github.com/Hylaean)
